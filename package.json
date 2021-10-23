@@ -1,0 +1,19 @@
+{
+  "name": "jogo",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": "mix",
+    "prod": "mix --production",
+    "watch": "mix watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.3.7",
+    "laravel-mix": "^6.0.34",
+    "postcss": "^8.3.11",
+    "tailwindcss": "^2.2.17"
+  }
+}
